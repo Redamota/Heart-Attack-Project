@@ -10,11 +10,6 @@ The model was built using **Python**, **Scikit-learn**, and **Streamlit**, provi
 
 ---
 
-## 📸 Preview
-
-> Add screenshots of the application here.
-
-![Home Page](C:\Users\MOTA\OneDrive\Pictures\Screenshots\Screenshot (192).png)
 
 ---
 
