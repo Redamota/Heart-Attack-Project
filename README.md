@@ -39,17 +39,26 @@ The model was built using **Python**, **Scikit-learn**, and **Streamlit**, provi
 ## 📂 Project Structure
 
 ```
-CardioPulse-AI/
+Heart-Attack-Project/
 │
-├── app.py
-├── heart_attack_model.pkl
-├── model_columns.pkl
-├── dataset.csv
+├── heart_attack_app.py
 ├── requirements.txt
 ├── README.md
-├── logo.png
+│
+├── data/
+│   ├── heart_attack_dataset.csv
+│   └── heart_attack_encoded.csv
+│
+├── models/
+│   ├── heart_attack_model.pkl
+│   └── model_columns.pkl
+│
+├── notebooks/
+│   ├── Heart-Attack.ipynb
+│   └── Heart-Attack-Model.ipynb
+│
 └── images/
-    └── home.png
+    └── Gemini_Generated_Image_pmjreppmjreppmjr.png
 ```
 
 ---
